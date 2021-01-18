@@ -1,6 +1,8 @@
 <template>
   <div id="app">
+    梦开始的地方
     <router-view />
+    <el-button>aaa</el-button>
   </div>
 </template>
 <script>
